@@ -200,10 +200,10 @@ const seedCarTable = async () => {
 
     carData.forEach((car) => {
         const insertQuery = {
-            text: 'INSERT INTO car (name, exterior, interior, roof, wheels, pricePoint) VALUES ($1, $2, $3, $4, $5, $6)'
+            text: 'INSERT INTO car (name, exterior, interior, roof, wheels, pricepoint) VALUES ($1, $2, $3, $4, $5, $6)'
         };
 
-        const values = [car.name, car.exterior, car.interior, car.roof, car.wheels, car.pricePoint];
+        const values = [car.name, car.exterior, car.interior, car.roof, car.wheels, car.pricepoint];
 
         pool.query(insertQuery, values, (err, res) => {
             if (err) {

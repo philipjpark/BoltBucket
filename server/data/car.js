@@ -6,7 +6,7 @@ const carData = [
         "interior": " ",
         "roof": " ",
         "wheels": " ",
-        "pricePoint": " "
+        "pricepoint": " "
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@ const carData = [
         "interior": " ",
         "roof": " ",
         "wheels": " ",
-        "pricePoint": " "
+        "pricepoint": " "
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@ const carData = [
         "interior": " ",
         "roof": " ",
         "wheels": " ",
-        "pricePoint": " "
+        "pricepoint": " "
     },
   ]
   
