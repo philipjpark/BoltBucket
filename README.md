@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-https://imgur.com/a/OuNr1lM
+[https://imgur.com/a/OuNr1lM]
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
@@ -48,7 +48,7 @@ GIF created with Kap
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
 
-I am having issues with using React to display data from the API.
+I am having issues adding the total price as well as edit and delete. I will continue to work on these features. 
 
 ## License
 
